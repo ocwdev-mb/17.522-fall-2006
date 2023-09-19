@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "2d2f2c8d-6547-86f4-9494-a2a926cd28a6",
+  "instructors": {
+    "content": [
+      "1af351d5-3d51-d94f-220f-85ccfe26a93d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "57bf992b-6014-7dd5-d829-5cd3fe7fb68d",
+    "website": "17-522-politics-and-religion-fall-2006"
+  },
+  "course_title": "Politics and Religion",
+  "course_description": "This graduate reading seminar explores the role of religious groups, institutions, and ideas in politics using social science theories. It is open to advanced undergraduate students with permission of the instructor.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.522",
+  "course_image_thumbnail": {
+    "content": "a3dac916-ee31-5ac5-effb-235f38b873c7",
+    "website": "17-522-politics-and-religion-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "c3fa6f3b-29b4-4719-88c3-f37495f2efb4",
+  "site_short_id": "17.522-fall-2006",
+  "title": "Course Metadata"
+}
